@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p>"I have a message for you."</p>
+
+
+<script language = "javascript" type = "text/javascript">
+
+
+    var currtime= 50;{
+
+
+    while(currtime > 0 || currtime==0=="blastoff"){ 
+    
+        currtime-=5;
+            alert("the time is "+currtime)
+    
+
+
+    if(currtime==25){alert("halfway there the time is" + currtime); }
+
+    else if(currtime==0){alert("blastoff")}
+    }
+}
+
+</script>
+
+<script script type="text/javascript" src="code.js"></script>
+
+
+
+
+play();
+
+
+</body>
+<body>
+    
+        <button onclick="play()">Dice roll</button>
+        <script>
+            document.write("Simple Craps")
+            document.write("<br/>")
+            
+            play();
+            </script>
+        </body>
+</html>
+</script>
